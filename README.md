@@ -1,4 +1,5 @@
 # Lab 8 - Starter
+Name: Abhimanyu Srivastava
 1) Where would you fit your automated tests in your Recipe project development pipeline? Select one of the following and explain why.
     - Answer: I would choose the first option, automate a github action that tests the code before it pushes to the repository. If the code does not pass the automated tests It should send notificiation to the committer and not push the code to the repo.
 2) Would you use an end to end test to check if a function is returning the correct output?
